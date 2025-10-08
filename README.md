@@ -23,9 +23,8 @@ Built for colleagues who want to **run the workflow directly in Jupyter** with m
 ## 🚀 Quick Start
 
 ### Option A — Open in Binder (no install)
-```
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MathiasBuff/RNA-cleaver/main)
-```
+
 > **Heads‑up:** Binder sessions are temporary. **Download your results** before closing the tab.
 
 ### Option B — Run locally
