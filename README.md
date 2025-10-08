@@ -43,12 +43,6 @@ Built for colleagues who want to **run the workflow directly in Jupyter** with m
 
 ## 🧭 Workflow Overview
 
-1. **General info** — How to use the notebook and where to change parameters.  
-2. **Inputs** — Provide or paste your RNA sequence (FASTA or plain text).  
-3. **Digest** — Choose enzyme/settings and run digestion (`digestion_enzyme`).  
-4. **Map/Plot** — Build a length map (`get_length_map`) and plot with `matplotlib`.  
-5. **Export** — Save the fragment list as text for copy–paste into Excel.  
-
 Run cells **top → bottom**. If you change parameters, **re‑run the affected section** (or “Restart & Run All”).
 
 ---
