@@ -1,0 +1,5 @@
+# Optional (developer) tools — not required for end users
+jupyterlab>=4.0
+ipykernel>=6.0
+black>=24.0
+isort>=5.0

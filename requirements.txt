@@ -1,0 +1,4 @@
+# Minimal runtime requirements
+
+# matplotlib pulls in numpy automatically.
+matplotlib>=3.8
