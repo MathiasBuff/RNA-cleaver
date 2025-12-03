@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MathiasBuff/RNA-cleaver/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MathiasBuff/RNA-cleaver/main?urlpath=%2Fdoc%2Ftree%2Fmain.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/python-3.12%2B-blue)
 
@@ -23,7 +23,7 @@ Built for colleagues who want to **run the workflow directly in Jupyter** with m
 ## 🚀 Quick Start
 
 ### Option A — Open in Binder (no install)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MathiasBuff/RNA-cleaver/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MathiasBuff/RNA-cleaver/main?urlpath=%2Fdoc%2Ftree%2Fmain.ipynb)
 
 > **Heads‑up:** Binder sessions are temporary. **Download your results** before closing the tab.
 
